@@ -23,14 +23,13 @@ path: data/test
 ### Citation
 If you find our work useful in your research, please consider citing:
 
-
 @article{liu2022spu,
-               title={SPU-Net: Self-supervised Point Cloud Upsampling by Coarse-to-fine Reconstruction with Self-projection Optimization},
-               author={Liu, Xinhai and Liu, Xinchen and Liu, Yu-Shen and Han, Zhizhong},
-               journal={IEEE Transactions on Image Processing},
-               volume={31},
-               pages={4213--4226},
-               year={2022},
-               publisher={IEEE}
-          }
+  title={Spu-net: Self-supervised point cloud upsampling by coarse-to-fine reconstruction with self-projection optimization},
+  author={Liu, Xinhai and Liu, Xinchen and Liu, Yu-Shen and Han, Zhizhong},
+  journal={IEEE Transactions on Image Processing},
+  volume={31},
+  pages={4213--4226},
+  year={2022},
+  publisher={IEEE}
+}
 
