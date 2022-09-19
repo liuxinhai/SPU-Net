@@ -1,4 +1,4 @@
-### SPU-Net: *Self-supervised Point Cloud Upsampling by Coarse-to-Fine Reconstruction with Self-Projection Optimization*
+### SPU-Net: *Self-Supervised Point Cloud Upsampling by Coarse-to-Fine Reconstruction with Self-Projection Optimization*
 Created by Xinhai Liu, Zhizhong Han, <a href="https://yushen-liu.github.io/" target="_blank">Yu-Shen Liu</a>, Matthias Zwicker.
 
 ### Usage
