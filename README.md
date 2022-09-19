@@ -4,7 +4,7 @@ Created by Xinhai Liu, Zhizhong Han, <a href="https://yushen-liu.github.io/" tar
 ### Usage
 For training, the cmd example: 
 
-        python train_spu-net.py --gpu 1 --log_dir log/spu_00012_git
+        python train_spu-net.py --gpu gpu_index --log_dir log/spu_00012_git
 
 For evaluating, the cmd example:
 
