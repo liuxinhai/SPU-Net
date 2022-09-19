@@ -21,7 +21,7 @@ If you find our work useful in your research, please consider citing:
 
 
         @article{liu2022spu,
-          title={Spu-net: Self-supervised point cloud upsampling by coarse-to-fine reconstruction with self-projection optimization},
+          title={SPU-Net: Self-Supervised Point Cloud Upsampling by Coarse-to-Fine Reconstruction with Self-Projection Optimization},
           author={Liu, Xinhai and Liu, Xinchen and Liu, Yu-Shen and Han, Zhizhong},
           journal={IEEE Transactions on Image Processing},
           volume={31},
