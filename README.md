@@ -14,8 +14,9 @@ For evaluating, the cmd example:
 
 The training data from PU-GAN:
 
-path: data/test
+path to the test point cloud and ground-truths: data/test
 
+You can download the entire dataset from <a href="https://github.com/liruihui/PU-GAN" target="_blank">PU-GAN</a> or <a href="https://drive.google.com/drive/folders/1pMf-brvyzoBBM-EkPncUhIt3yQWMTpvx?usp=sharing" target="_blank">Google Drive</a>.
 ### Citation
 If you find our work useful in your research, please consider citing:
 
