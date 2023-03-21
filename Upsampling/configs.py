@@ -38,7 +38,7 @@ parser.add_argument('--train_test_data_dir', default='./data/test')
 parser.add_argument('--test_data_dir', default='./data/test')
 parser.add_argument('--num_patch', type=int, default=24)
 parser.add_argument('--patch_size', type=int, default=256)
-parser.add_argument('--use_geo', type=str2bool, default=True)
+parser.add_argument('--use_geo', type=str2bool, default=False)
 
 
 # model
